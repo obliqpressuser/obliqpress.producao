@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="PrimaryID" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier id="PrimaryID" opf:scheme="ISBN">978-85-64406-38-4</dc:identifier>
+        <dc:title>Raymundo Curupyra, o caypora</dc:title>
+        <dc:creator opf:role="aut">Glauco Mattoso</dc:creator>
+        <dc:language>pt_BR</dc:language>
+        <dc:publisher>Tordesilhas</dc:publisher>
+        <dc:date opf:event="modification">2013-03-20</dc:date>
+        <meta name="cover" content="my_cover_image"/>
+        <meta content="0.6.902" name="Sigil version"/>
+    </metadata>
+    <manifest>
+        <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+        <item href="Styles/css.css" id="css" media-type="text/css"/>
+        <item href="Text/auctor.htm" id="auctor" media-type="application/xhtml+xml"/>
+        <item href="Text/autor.htm" id="autor" media-type="application/xhtml+xml"/>
+        <item href="Text/Bibliografia.htm" id="Bibliografia" media-type="application/xhtml+xml"/>
+        <item href="Text/chap01.htm" id="chap01" media-type="application/xhtml+xml"/>
+        <item href="Text/chap02.htm" id="chap02" media-type="application/xhtml+xml"/>
+        <item href="Text/chap03.htm" id="chap03" media-type="application/xhtml+xml"/>
+        <item href="Text/chap04.htm" id="chap04" media-type="application/xhtml+xml"/>
+        <item href="Text/chap05.htm" id="chap05" media-type="application/xhtml+xml"/>
+        <item href="Text/chap06.htm" id="chap06" media-type="application/xhtml+xml"/>
+        <item href="Text/chap07.htm" id="chap07" media-type="application/xhtml+xml"/>
+        <item href="Text/chap08.htm" id="chap08" media-type="application/xhtml+xml"/>
+        <item href="Text/chap09.htm" id="chap09" media-type="application/xhtml+xml"/>
+        <item href="Text/chap10.htm" id="chap10" media-type="application/xhtml+xml"/>
+        <item href="Text/chap100.htm" id="chap100" media-type="application/xhtml+xml"/>
+        <item href="Text/chap101.htm" id="chap101" media-type="application/xhtml+xml"/>
+        <item href="Text/chap102.htm" id="chap102" media-type="application/xhtml+xml"/>
+        <item href="Text/chap103.htm" id="chap103" media-type="application/xhtml+xml"/>
+        <item href="Text/chap104.htm" id="chap104" media-type="application/xhtml+xml"/>
+        <item href="Text/chap105.htm" id="chap105" media-type="application/xhtml+xml"/>
+        <item href="Text/chap106.htm" id="chap106" media-type="application/xhtml+xml"/>
+        <item href="Text/chap107.htm" id="chap107" media-type="application/xhtml+xml"/>
+        <item href="Text/chap108.htm" id="chap108" media-type="application/xhtml+xml"/>
+        <item href="Text/chap109.htm" id="chap109" media-type="application/xhtml+xml"/>
+        <item href="Text/chap11.htm" id="chap11" media-type="application/xhtml+xml"/>
+        <item href="Text/chap110.htm" id="chap110" media-type="application/xhtml+xml"/>
+        <item href="Text/chap111.htm" id="chap111" media-type="application/xhtml+xml"/>
+        <item href="Text/chap112.htm" id="chap112" media-type="application/xhtml+xml"/>
+        <item href="Text/chap113.htm" id="chap113" media-type="application/xhtml+xml"/>
+        <item href="Text/chap114.htm" id="chap114" media-type="application/xhtml+xml"/>
+        <item href="Text/chap115.htm" id="chap115" media-type="application/xhtml+xml"/>
+        <item href="Text/chap116.htm" id="chap116" media-type="application/xhtml+xml"/>
+        <item href="Text/chap117.htm" id="chap117" media-type="application/xhtml+xml"/>
+        <item href="Text/chap118.htm" id="chap118" media-type="application/xhtml+xml"/>
+        <item href="Text/chap119.htm" id="chap119" media-type="application/xhtml+xml"/>
+        <item href="Text/chap12.htm" id="chap12" media-type="application/xhtml+xml"/>
+        <item href="Text/chap120.htm" id="chap120" media-type="application/xhtml+xml"/>
+        <item href="Text/chap121.htm" id="chap121" media-type="application/xhtml+xml"/>
+        <item href="Text/chap122.htm" id="chap122" media-type="application/xhtml+xml"/>
+        <item href="Text/chap123.htm" id="chap123" media-type="application/xhtml+xml"/>
+        <item href="Text/chap124.htm" id="chap124" media-type="application/xhtml+xml"/>
+        <item href="Text/chap125.htm" id="chap125" media-type="application/xhtml+xml"/>
+        <item href="Text/chap126.htm" id="chap126" media-type="application/xhtml+xml"/>
+        <item href="Text/chap127.htm" id="chap127" media-type="application/xhtml+xml"/>
+        <item href="Text/chap128.htm" id="chap128" media-type="application/xhtml+xml"/>
+        <item href="Text/chap129.htm" id="chap129" media-type="application/xhtml+xml"/>
+        <item href="Text/chap13.htm" id="chap13" media-type="application/xhtml+xml"/>
+        <item href="Text/chap130.htm" id="chap130" media-type="application/xhtml+xml"/>
+        <item href="Text/chap131.htm" id="chap131" media-type="application/xhtml+xml"/>
+        <item href="Text/chap132.htm" id="chap132" media-type="application/xhtml+xml"/>
+        <item href="Text/chap133.htm" id="chap133" media-type="application/xhtml+xml"/>
+        <item href="Text/chap134.htm" id="chap134" media-type="application/xhtml+xml"/>
+        <item href="Text/chap135.htm" id="chap135" media-type="application/xhtml+xml"/>
+        <item href="Text/chap136.htm" id="chap136" media-type="application/xhtml+xml"/>
+        <item href="Text/chap137.htm" id="chap137" media-type="application/xhtml+xml"/>
+        <item href="Text/chap138.htm" id="chap138" media-type="application/xhtml+xml"/>
+        <item href="Text/chap139.htm" id="chap139" media-type="application/xhtml+xml"/>
+        <item href="Text/chap14.htm" id="chap14" media-type="application/xhtml+xml"/>
+        <item href="Text/chap140.htm" id="chap140" media-type="application/xhtml+xml"/>
+        <item href="Text/chap141.htm" id="chap141" media-type="application/xhtml+xml"/>
+        <item href="Text/chap142.htm" id="chap142" media-type="application/xhtml+xml"/>
+        <item href="Text/chap143.htm" id="chap143" media-type="application/xhtml+xml"/>
+        <item href="Text/chap144.htm" id="chap144" media-type="application/xhtml+xml"/>
+        <item href="Text/chap145.htm" id="chap145" media-type="application/xhtml+xml"/>
+        <item href="Text/chap146.htm" id="chap146" media-type="application/xhtml+xml"/>
+        <item href="Text/chap147.htm" id="chap147" media-type="application/xhtml+xml"/>
+        <item href="Text/chap148.htm" id="chap148" media-type="application/xhtml+xml"/>
+        <item href="Text/chap149.htm" id="chap149" media-type="application/xhtml+xml"/>
+        <item href="Text/chap15.htm" id="chap15" media-type="application/xhtml+xml"/>
+        <item href="Text/chap150.htm" id="chap150" media-type="application/xhtml+xml"/>
+        <item href="Text/chap151.htm" id="chap151" media-type="application/xhtml+xml"/>
+        <item href="Text/chap152.htm" id="chap152" media-type="application/xhtml+xml"/>
+        <item href="Text/chap153.htm" id="chap153" media-type="application/xhtml+xml"/>
+        <item href="Text/chap154.htm" id="chap154" media-type="application/xhtml+xml"/>
+        <item href="Text/chap155.htm" id="chap155" media-type="application/xhtml+xml"/>
+        <item href="Text/chap156.htm" id="chap156" media-type="application/xhtml+xml"/>
+        <item href="Text/chap157.htm" id="chap157" media-type="application/xhtml+xml"/>
+        <item href="Text/chap158.htm" id="chap158" media-type="application/xhtml+xml"/>
+        <item href="Text/chap159.htm" id="chap159" media-type="application/xhtml+xml"/>
+        <item href="Text/chap16.htm" id="chap16" media-type="application/xhtml+xml"/>
+        <item href="Text/chap160.htm" id="chap160" media-type="application/xhtml+xml"/>
+        <item href="Text/chap161.htm" id="chap161" media-type="application/xhtml+xml"/>
+        <item href="Text/chap162.htm" id="chap162" media-type="application/xhtml+xml"/>
+        <item href="Text/chap163.htm" id="chap163" media-type="application/xhtml+xml"/>
+        <item href="Text/chap164.htm" id="chap164" media-type="application/xhtml+xml"/>
+        <item href="Text/chap165.htm" id="chap165" media-type="application/xhtml+xml"/>
+        <item href="Text/chap166.htm" id="chap166" media-type="application/xhtml+xml"/>
+        <item href="Text/chap167.htm" id="chap167" media-type="application/xhtml+xml"/>
+        <item href="Text/chap168.htm" id="chap168" media-type="application/xhtml+xml"/>
+        <item href="Text/chap169.htm" id="chap169" media-type="application/xhtml+xml"/>
+        <item href="Text/chap17.htm" id="chap17" media-type="application/xhtml+xml"/>
+        <item href="Text/chap170.htm" id="chap170" media-type="application/xhtml+xml"/>
+        <item href="Text/chap171.htm" id="chap171" media-type="application/xhtml+xml"/>
+        <item href="Text/chap172.htm" id="chap172" media-type="application/xhtml+xml"/>
+        <item href="Text/chap173.htm" id="chap173" media-type="application/xhtml+xml"/>
+        <item href="Text/chap174.htm" id="chap174" media-type="application/xhtml+xml"/>
+        <item href="Text/chap175.htm" id="chap175" media-type="application/xhtml+xml"/>
+        <item href="Text/chap176.htm" id="chap176" media-type="application/xhtml+xml"/>
+        <item href="Text/chap177.htm" id="chap177" media-type="application/xhtml+xml"/>
+        <item href="Text/chap178.htm" id="chap178" media-type="application/xhtml+xml"/>
+        <item href="Text/chap179.htm" id="chap179" media-type="application/xhtml+xml"/>
+        <item href="Text/chap18.htm" id="chap18" media-type="application/xhtml+xml"/>
+        <item href="Text/chap180.htm" id="chap180" media-type="application/xhtml+xml"/>
+        <item href="Text/chap181.htm" id="chap181" media-type="application/xhtml+xml"/>
+        <item href="Text/chap182.htm" id="chap182" media-type="application/xhtml+xml"/>
+        <item href="Text/chap183.htm" id="chap183" media-type="application/xhtml+xml"/>
+        <item href="Text/chap184.htm" id="chap184" media-type="application/xhtml+xml"/>
+        <item href="Text/chap185.htm" id="chap185" media-type="application/xhtml+xml"/>
+        <item href="Text/chap186.htm" id="chap186" media-type="application/xhtml+xml"/>
+        <item href="Text/chap187.htm" id="chap187" media-type="application/xhtml+xml"/>
+        <item href="Text/chap188.htm" id="chap188" media-type="application/xhtml+xml"/>
+        <item href="Text/chap189.htm" id="chap189" media-type="application/xhtml+xml"/>
+        <item href="Text/chap19.htm" id="chap19" media-type="application/xhtml+xml"/>
+        <item href="Text/chap190.htm" id="chap190" media-type="application/xhtml+xml"/>
+        <item href="Text/chap191.htm" id="chap191" media-type="application/xhtml+xml"/>
+        <item href="Text/chap192.htm" id="chap192" media-type="application/xhtml+xml"/>
+        <item href="Text/chap193.htm" id="chap193" media-type="application/xhtml+xml"/>
+        <item href="Text/chap194.htm" id="chap194" media-type="application/xhtml+xml"/>
+        <item href="Text/chap195.htm" id="chap195" media-type="application/xhtml+xml"/>
+        <item href="Text/chap196.htm" id="chap196" media-type="application/xhtml+xml"/>
+        <item href="Text/chap197.htm" id="chap197" media-type="application/xhtml+xml"/>
+        <item href="Text/chap198.htm" id="chap198" media-type="application/xhtml+xml"/>
+        <item href="Text/chap199.htm" id="chap199" media-type="application/xhtml+xml"/>
+        <item href="Text/chap20.htm" id="chap20" media-type="application/xhtml+xml"/>
+        <item href="Text/chap200.htm" id="chap200" media-type="application/xhtml+xml"/>
+        <item href="Text/chap21.htm" id="chap21" media-type="application/xhtml+xml"/>
+        <item href="Text/chap22.htm" id="chap22" media-type="application/xhtml+xml"/>
+        <item href="Text/chap23.htm" id="chap23" media-type="application/xhtml+xml"/>
+        <item href="Text/chap24.htm" id="chap24" media-type="application/xhtml+xml"/>
+        <item href="Text/chap25.htm" id="chap25" media-type="application/xhtml+xml"/>
+        <item href="Text/chap26.htm" id="chap26" media-type="application/xhtml+xml"/>
+        <item href="Text/chap27.htm" id="chap27" media-type="application/xhtml+xml"/>
+        <item href="Text/chap28.htm" id="chap28" media-type="application/xhtml+xml"/>
+        <item href="Text/chap29.htm" id="chap29" media-type="application/xhtml+xml"/>
+        <item href="Text/chap30.htm" id="chap30" media-type="application/xhtml+xml"/>
+        <item href="Text/chap31.htm" id="chap31" media-type="application/xhtml+xml"/>
+        <item href="Text/chap32.htm" id="chap32" media-type="application/xhtml+xml"/>
+        <item href="Text/chap33.htm" id="chap33" media-type="application/xhtml+xml"/>
+        <item href="Text/chap34.htm" id="chap34" media-type="application/xhtml+xml"/>
+        <item href="Text/chap35.htm" id="chap35" media-type="application/xhtml+xml"/>
+        <item href="Text/chap36.htm" id="chap36" media-type="application/xhtml+xml"/>
+        <item href="Text/chap37.htm" id="chap37" media-type="application/xhtml+xml"/>
+        <item href="Text/chap38.htm" id="chap38" media-type="application/xhtml+xml"/>
+        <item href="Text/chap39.htm" id="chap39" media-type="application/xhtml+xml"/>
+        <item href="Text/chap40.htm" id="chap40" media-type="application/xhtml+xml"/>
+        <item href="Text/chap41.htm" id="chap41" media-type="application/xhtml+xml"/>
+        <item href="Text/chap42.htm" id="chap42" media-type="application/xhtml+xml"/>
+        <item href="Text/chap43.htm" id="chap43" media-type="application/xhtml+xml"/>
+        <item href="Text/chap44.htm" id="chap44" media-type="application/xhtml+xml"/>
+        <item href="Text/chap45.htm" id="chap45" media-type="application/xhtml+xml"/>
+        <item href="Text/chap46.htm" id="chap46" media-type="application/xhtml+xml"/>
+        <item href="Text/chap47.htm" id="chap47" media-type="application/xhtml+xml"/>
+        <item href="Text/chap48.htm" id="chap48" media-type="application/xhtml+xml"/>
+        <item href="Text/chap49.htm" id="chap49" media-type="application/xhtml+xml"/>
+        <item href="Text/chap50.htm" id="chap50" media-type="application/xhtml+xml"/>
+        <item href="Text/chap51.htm" id="chap51" media-type="application/xhtml+xml"/>
+        <item href="Text/chap52.htm" id="chap52" media-type="application/xhtml+xml"/>
+        <item href="Text/chap53.htm" id="chap53" media-type="application/xhtml+xml"/>
+        <item href="Text/chap54.htm" id="chap54" media-type="application/xhtml+xml"/>
+        <item href="Text/chap55.htm" id="chap55" media-type="application/xhtml+xml"/>
+        <item href="Text/chap56.htm" id="chap56" media-type="application/xhtml+xml"/>
+        <item href="Text/chap57.htm" id="chap57" media-type="application/xhtml+xml"/>
+        <item href="Text/chap58.htm" id="chap58" media-type="application/xhtml+xml"/>
+        <item href="Text/chap59.htm" id="chap59" media-type="application/xhtml+xml"/>
+        <item href="Text/chap60.htm" id="chap60" media-type="application/xhtml+xml"/>
+        <item href="Text/chap61.htm" id="chap61" media-type="application/xhtml+xml"/>
+        <item href="Text/chap62.htm" id="chap62" media-type="application/xhtml+xml"/>
+        <item href="Text/chap63.htm" id="chap63" media-type="application/xhtml+xml"/>
+        <item href="Text/chap64.htm" id="chap64" media-type="application/xhtml+xml"/>
+        <item href="Text/chap65.htm" id="chap65" media-type="application/xhtml+xml"/>
+        <item href="Text/chap66.htm" id="chap66" media-type="application/xhtml+xml"/>
+        <item href="Text/chap67.htm" id="chap67" media-type="application/xhtml+xml"/>
+        <item href="Text/chap68.htm" id="chap68" media-type="application/xhtml+xml"/>
+        <item href="Text/chap69.htm" id="chap69" media-type="application/xhtml+xml"/>
+        <item href="Text/chap70.htm" id="chap70" media-type="application/xhtml+xml"/>
+        <item href="Text/chap71.htm" id="chap71" media-type="application/xhtml+xml"/>
+        <item href="Text/chap72.htm" id="chap72" media-type="application/xhtml+xml"/>
+        <item href="Text/chap73.htm" id="chap73" media-type="application/xhtml+xml"/>
+        <item href="Text/chap74.htm" id="chap74" media-type="application/xhtml+xml"/>
+        <item href="Text/chap75.htm" id="chap75" media-type="application/xhtml+xml"/>
+        <item href="Text/chap76.htm" id="chap76" media-type="application/xhtml+xml"/>
+        <item href="Text/chap77.htm" id="chap77" media-type="application/xhtml+xml"/>
+        <item href="Text/chap78.htm" id="chap78" media-type="application/xhtml+xml"/>
+        <item href="Text/chap79.htm" id="chap79" media-type="application/xhtml+xml"/>
+        <item href="Text/chap80.htm" id="chap80" media-type="application/xhtml+xml"/>
+        <item href="Text/chap81.htm" id="chap81" media-type="application/xhtml+xml"/>
+        <item href="Text/chap82.htm" id="chap82" media-type="application/xhtml+xml"/>
+        <item href="Text/chap83.htm" id="chap83" media-type="application/xhtml+xml"/>
+        <item href="Text/chap84.htm" id="chap84" media-type="application/xhtml+xml"/>
+        <item href="Text/chap85.htm" id="chap85" media-type="application/xhtml+xml"/>
+        <item href="Text/chap86.htm" id="chap86" media-type="application/xhtml+xml"/>
+        <item href="Text/chap87.htm" id="chap87" media-type="application/xhtml+xml"/>
+        <item href="Text/chap88.htm" id="chap88" media-type="application/xhtml+xml"/>
+        <item href="Text/chap89.htm" id="chap89" media-type="application/xhtml+xml"/>
+        <item href="Text/chap90.htm" id="chap90" media-type="application/xhtml+xml"/>
+        <item href="Text/chap91.htm" id="chap91" media-type="application/xhtml+xml"/>
+        <item href="Text/chap92.htm" id="chap92" media-type="application/xhtml+xml"/>
+        <item href="Text/chap93.htm" id="chap93" media-type="application/xhtml+xml"/>
+        <item href="Text/chap94.htm" id="chap94" media-type="application/xhtml+xml"/>
+        <item href="Text/chap95.htm" id="chap95" media-type="application/xhtml+xml"/>
+        <item href="Text/chap96.htm" id="chap96" media-type="application/xhtml+xml"/>
+        <item href="Text/chap97.htm" id="chap97" media-type="application/xhtml+xml"/>
+        <item href="Text/chap98.htm" id="chap98" media-type="application/xhtml+xml"/>
+        <item href="Text/chap99.htm" id="chap99" media-type="application/xhtml+xml"/>
+        <item href="Text/copy.htm" id="copy" media-type="application/xhtml+xml"/>
+        <item href="Text/cronologia.htm" id="cronologia" media-type="application/xhtml+xml"/>
+        <item href="Text/elencho.htm" id="elencho" media-type="application/xhtml+xml"/>
+        <item href="Text/Obra.htm" id="Obra" media-type="application/xhtml+xml"/>
+        <item href="Text/other.htm" id="other" media-type="application/xhtml+xml"/>
+        <item href="Text/posfacio.htm" id="posfacio" media-type="application/xhtml+xml"/>
+        <item href="Text/sobreoposfaciador.htm" id="sobreoposfaciador" media-type="application/xhtml+xml"/>
+        <item href="Text/title.htm" id="title" media-type="application/xhtml+xml"/>
+        <item href="Text/title1.htm" id="title1" media-type="application/xhtml+xml"/>
+        <item href="Text/title2.htm" id="title2" media-type="application/xhtml+xml"/>
+        <item href="Text/toc.htm" id="toc" media-type="application/xhtml+xml"/>
+        <item href="Images/pg-03.jpg" id="pg-03" media-type="image/jpeg"/>
+        <item href="Text/cover.htm" id="cover.htm" media-type="application/xhtml+xml"/>
+        <item href="Styles/cover.css" id="cover.css" media-type="text/css"/>
+        <item href="Images/cover.jpg" id="cover.jpg" media-type="image/jpeg"/>
+    </manifest>
+    <spine toc="ncx">
+        <itemref idref="cover.htm"/>
+        <itemref idref="title" linear="yes"/>
+        <itemref idref="other" linear="yes"/>
+        <itemref idref="title1" linear="yes"/>
+        <itemref idref="copy" linear="yes"/>
+        <itemref idref="toc" linear="yes"/>
+        <itemref idref="title2" linear="yes"/>
+        <itemref idref="elencho" linear="yes"/>
+        <itemref idref="chap01" linear="yes"/>
+        <itemref idref="chap02" linear="yes"/>
+        <itemref idref="chap03" linear="yes"/>
+        <itemref idref="chap04" linear="yes"/>
+        <itemref idref="chap05" linear="yes"/>
+        <itemref idref="chap06" linear="yes"/>
+        <itemref idref="chap07" linear="yes"/>
+        <itemref idref="chap08" linear="yes"/>
+        <itemref idref="chap09" linear="yes"/>
+        <itemref idref="chap10" linear="yes"/>
+        <itemref idref="chap11" linear="yes"/>
+        <itemref idref="chap12" linear="yes"/>
+        <itemref idref="chap13" linear="yes"/>
+        <itemref idref="chap14" linear="yes"/>
+        <itemref idref="chap15" linear="yes"/>
+        <itemref idref="chap16" linear="yes"/>
+        <itemref idref="chap17" linear="yes"/>
+        <itemref idref="chap18" linear="yes"/>
+        <itemref idref="chap19" linear="yes"/>
+        <itemref idref="chap20" linear="yes"/>
+        <itemref idref="chap21" linear="yes"/>
+        <itemref idref="chap22" linear="yes"/>
+        <itemref idref="chap23" linear="yes"/>
+        <itemref idref="chap24" linear="yes"/>
+        <itemref idref="chap25" linear="yes"/>
+        <itemref idref="chap26" linear="yes"/>
+        <itemref idref="chap27" linear="yes"/>
+        <itemref idref="chap28" linear="yes"/>
+        <itemref idref="chap29" linear="yes"/>
+        <itemref idref="chap30" linear="yes"/>
+        <itemref idref="chap31" linear="yes"/>
+        <itemref idref="chap32" linear="yes"/>
+        <itemref idref="chap33" linear="yes"/>
+        <itemref idref="chap34" linear="yes"/>
+        <itemref idref="chap35" linear="yes"/>
+        <itemref idref="chap36" linear="yes"/>
+        <itemref idref="chap37" linear="yes"/>
+        <itemref idref="chap38" linear="yes"/>
+        <itemref idref="chap39" linear="yes"/>
+        <itemref idref="chap40" linear="yes"/>
+        <itemref idref="chap41" linear="yes"/>
+        <itemref idref="chap42" linear="yes"/>
+        <itemref idref="chap43" linear="yes"/>
+        <itemref idref="chap44" linear="yes"/>
+        <itemref idref="chap45" linear="yes"/>
+        <itemref idref="chap46" linear="yes"/>
+        <itemref idref="chap47" linear="yes"/>
+        <itemref idref="chap48" linear="yes"/>
+        <itemref idref="chap49" linear="yes"/>
+        <itemref idref="chap50" linear="yes"/>
+        <itemref idref="chap51" linear="yes"/>
+        <itemref idref="chap52" linear="yes"/>
+        <itemref idref="chap53" linear="yes"/>
+        <itemref idref="chap54" linear="yes"/>
+        <itemref idref="chap55" linear="yes"/>
+        <itemref idref="chap56" linear="yes"/>
+        <itemref idref="chap57" linear="yes"/>
+        <itemref idref="chap58" linear="yes"/>
+        <itemref idref="chap59" linear="yes"/>
+        <itemref idref="chap60" linear="yes"/>
+        <itemref idref="chap61" linear="yes"/>
+        <itemref idref="chap62" linear="yes"/>
+        <itemref idref="chap63" linear="yes"/>
+        <itemref idref="chap64" linear="yes"/>
+        <itemref idref="chap65" linear="yes"/>
+        <itemref idref="chap66" linear="yes"/>
+        <itemref idref="chap67" linear="yes"/>
+        <itemref idref="chap68" linear="yes"/>
+        <itemref idref="chap69" linear="yes"/>
+        <itemref idref="chap70" linear="yes"/>
+        <itemref idref="chap71" linear="yes"/>
+        <itemref idref="chap72" linear="yes"/>
+        <itemref idref="chap73" linear="yes"/>
+        <itemref idref="chap74" linear="yes"/>
+        <itemref idref="chap75" linear="yes"/>
+        <itemref idref="chap76" linear="yes"/>
+        <itemref idref="chap77" linear="yes"/>
+        <itemref idref="chap78" linear="yes"/>
+        <itemref idref="chap79" linear="yes"/>
+        <itemref idref="chap80" linear="yes"/>
+        <itemref idref="chap81" linear="yes"/>
+        <itemref idref="chap82" linear="yes"/>
+        <itemref idref="chap83" linear="yes"/>
+        <itemref idref="chap84" linear="yes"/>
+        <itemref idref="chap85" linear="yes"/>
+        <itemref idref="chap86" linear="yes"/>
+        <itemref idref="chap87" linear="yes"/>
+        <itemref idref="chap88" linear="yes"/>
+        <itemref idref="chap89" linear="yes"/>
+        <itemref idref="chap90" linear="yes"/>
+        <itemref idref="chap91" linear="yes"/>
+        <itemref idref="chap92" linear="yes"/>
+        <itemref idref="chap93" linear="yes"/>
+        <itemref idref="chap94" linear="yes"/>
+        <itemref idref="chap95" linear="yes"/>
+        <itemref idref="chap96" linear="yes"/>
+        <itemref idref="chap97" linear="yes"/>
+        <itemref idref="chap98" linear="yes"/>
+        <itemref idref="chap99" linear="yes"/>
+        <itemref idref="chap100" linear="yes"/>
+        <itemref idref="chap101" linear="yes"/>
+        <itemref idref="chap102" linear="yes"/>
+        <itemref idref="chap103" linear="yes"/>
+        <itemref idref="chap104" linear="yes"/>
+        <itemref idref="chap105" linear="yes"/>
+        <itemref idref="chap106" linear="yes"/>
+        <itemref idref="chap107" linear="yes"/>
+        <itemref idref="chap108" linear="yes"/>
+        <itemref idref="chap109" linear="yes"/>
+        <itemref idref="chap110" linear="yes"/>
+        <itemref idref="chap111" linear="yes"/>
+        <itemref idref="chap112" linear="yes"/>
+        <itemref idref="chap113" linear="yes"/>
+        <itemref idref="chap114" linear="yes"/>
+        <itemref idref="chap115" linear="yes"/>
+        <itemref idref="chap116" linear="yes"/>
+        <itemref idref="chap117" linear="yes"/>
+        <itemref idref="chap118" linear="yes"/>
+        <itemref idref="chap119" linear="yes"/>
+        <itemref idref="chap120" linear="yes"/>
+        <itemref idref="chap121" linear="yes"/>
+        <itemref idref="chap122" linear="yes"/>
+        <itemref idref="chap123" linear="yes"/>
+        <itemref idref="chap124" linear="yes"/>
+        <itemref idref="chap125" linear="yes"/>
+        <itemref idref="chap126" linear="yes"/>
+        <itemref idref="chap127" linear="yes"/>
+        <itemref idref="chap128" linear="yes"/>
+        <itemref idref="chap129" linear="yes"/>
+        <itemref idref="chap130" linear="yes"/>
+        <itemref idref="chap131" linear="yes"/>
+        <itemref idref="chap132" linear="yes"/>
+        <itemref idref="chap133" linear="yes"/>
+        <itemref idref="chap134" linear="yes"/>
+        <itemref idref="chap135" linear="yes"/>
+        <itemref idref="chap136" linear="yes"/>
+        <itemref idref="chap137" linear="yes"/>
+        <itemref idref="chap138" linear="yes"/>
+        <itemref idref="chap139" linear="yes"/>
+        <itemref idref="chap140" linear="yes"/>
+        <itemref idref="chap141" linear="yes"/>
+        <itemref idref="chap142" linear="yes"/>
+        <itemref idref="chap143" linear="yes"/>
+        <itemref idref="chap144" linear="yes"/>
+        <itemref idref="chap145" linear="yes"/>
+        <itemref idref="chap146" linear="yes"/>
+        <itemref idref="chap147" linear="yes"/>
+        <itemref idref="chap148" linear="yes"/>
+        <itemref idref="chap149" linear="yes"/>
+        <itemref idref="chap150" linear="yes"/>
+        <itemref idref="chap151" linear="yes"/>
+        <itemref idref="chap152" linear="yes"/>
+        <itemref idref="chap153" linear="yes"/>
+        <itemref idref="chap154" linear="yes"/>
+        <itemref idref="chap155" linear="yes"/>
+        <itemref idref="chap156" linear="yes"/>
+        <itemref idref="chap157" linear="yes"/>
+        <itemref idref="chap158" linear="yes"/>
+        <itemref idref="chap159" linear="yes"/>
+        <itemref idref="chap160" linear="yes"/>
+        <itemref idref="chap161" linear="yes"/>
+        <itemref idref="chap162" linear="yes"/>
+        <itemref idref="chap163" linear="yes"/>
+        <itemref idref="chap164" linear="yes"/>
+        <itemref idref="chap165" linear="yes"/>
+        <itemref idref="chap166" linear="yes"/>
+        <itemref idref="chap167" linear="yes"/>
+        <itemref idref="chap168" linear="yes"/>
+        <itemref idref="chap169" linear="yes"/>
+        <itemref idref="chap170" linear="yes"/>
+        <itemref idref="chap171" linear="yes"/>
+        <itemref idref="chap172" linear="yes"/>
+        <itemref idref="chap173" linear="yes"/>
+        <itemref idref="chap174" linear="yes"/>
+        <itemref idref="chap175" linear="yes"/>
+        <itemref idref="chap176" linear="yes"/>
+        <itemref idref="chap177" linear="yes"/>
+        <itemref idref="chap178" linear="yes"/>
+        <itemref idref="chap179" linear="yes"/>
+        <itemref idref="chap180" linear="yes"/>
+        <itemref idref="chap181" linear="yes"/>
+        <itemref idref="chap182" linear="yes"/>
+        <itemref idref="chap183" linear="yes"/>
+        <itemref idref="chap184" linear="yes"/>
+        <itemref idref="chap185" linear="yes"/>
+        <itemref idref="chap186" linear="yes"/>
+        <itemref idref="chap187" linear="yes"/>
+        <itemref idref="chap188" linear="yes"/>
+        <itemref idref="chap189" linear="yes"/>
+        <itemref idref="chap190" linear="yes"/>
+        <itemref idref="chap191" linear="yes"/>
+        <itemref idref="chap192" linear="yes"/>
+        <itemref idref="chap193" linear="yes"/>
+        <itemref idref="chap194" linear="yes"/>
+        <itemref idref="chap195" linear="yes"/>
+        <itemref idref="chap196" linear="yes"/>
+        <itemref idref="chap197" linear="yes"/>
+        <itemref idref="chap198" linear="yes"/>
+        <itemref idref="chap199" linear="yes"/>
+        <itemref idref="chap200" linear="yes"/>
+        <itemref idref="auctor" linear="yes"/>
+        <itemref idref="Obra" linear="yes"/>
+        <itemref idref="posfacio" linear="yes"/>
+        <itemref idref="sobreoposfaciador" linear="yes"/>
+        <itemref idref="cronologia" linear="yes"/>
+        <itemref idref="Bibliografia" linear="yes"/>
+        <itemref idref="autor" linear="yes"/>
+    </spine>
+    <guide>
+        <reference href="Text/copy.htm" title="Copyright" type="copyright-page"/>
+    </guide>
+</package>

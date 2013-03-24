@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en-US">
+<head>
+<meta content="978-85-64406-38-4" name="dtb:uid"/>
+<meta content="2" name="dtb:depth"/>
+<meta content="0" name="dtb:totalPageCount"/>
+<meta content="0" name="dtb:maxPageNumber"/>
+</head>
+<docTitle><text>Raymundo Curupyra, o caypora</text></docTitle>
+<docAuthor><text>Raymundo Curupyra</text></docAuthor>
+<navMap>
+<navPoint id="1" playOrder="1">
+<navLabel><text>TITLE PAGE</text></navLabel>
+<content src="Text/title.htm"/>
+</navPoint>
+<navPoint id="2" playOrder="2">
+<navLabel><text>COPYRIGHT</text></navLabel>
+<content src="Text/copy.htm"/>
+</navPoint>
+<navPoint id="3" playOrder="3">
+<navLabel><text>Sumário</text></navLabel>
+<content src="Text/toc.htm"/>
+</navPoint>
+<navPoint id="4" playOrder="4">
+<navLabel><text>Raymundo Curupyra, o caypora</text></navLabel>
+<content src="Text/title2.htm"/>
+</navPoint>
+<navPoint id="5" playOrder="5">
+<navLabel><text>Elencho</text></navLabel>
+<content src="Text/elencho.htm"/>
+</navPoint>
+<navPoint id="6" playOrder="6">
+<navLabel><text>Soneto 1 – O cauto causo do cayporismo</text></navLabel>
+<content src="Text/chap01.htm"/>
+</navPoint>
+<navPoint id="7" playOrder="7">
+<navLabel><text>Soneto 2 – O cauto causo do umbigo</text></navLabel>
+<content src="Text/chap02.htm"/>
+</navPoint>
+<navPoint id="8" playOrder="8">
+<navLabel><text>Soneto 3 – O cauto causo do dedo</text></navLabel>
+<content src="Text/chap03.htm"/>
+</navPoint>
+<navPoint id="9" playOrder="9">
+<navLabel><text>Soneto 4 – O cauto causo do espetinho</text></navLabel>
+<content src="Text/chap04.htm"/>
+</navPoint>
+<navPoint id="10" playOrder="10">
+<navLabel><text>Soneto 5 – O cauto causo da boa acção</text></navLabel>
+<content src="Text/chap05.htm"/>
+</navPoint>
+<navPoint id="11" playOrder="11">
+<navLabel><text>Soneto 6 – O cauto causo do churrasco</text></navLabel>
+<content src="Text/chap06.htm"/>
+</navPoint>
+<navPoint id="12" playOrder="12">
+<navLabel><text>Soneto 7 – O cauto causo dos parabens</text></navLabel>
+<content src="Text/chap07.htm"/>
+</navPoint>
+<navPoint id="13" playOrder="13">
+<navLabel><text>Soneto 8 – O cauto causo da passageira passarinha</text></navLabel>
+<content src="Text/chap08.htm"/>
+</navPoint>
+<navPoint id="14" playOrder="14">
+<navLabel><text>Soneto 9 – O cauto causo da consulta urologica</text></navLabel>
+<content src="Text/chap09.htm"/>
+</navPoint>
+<navPoint id="15" playOrder="15">
+<navLabel><text>Soneto 10 – O cauto causo do transporte collectivo</text></navLabel>
+<content src="Text/chap10.htm"/>
+</navPoint>
+<navPoint id="16" playOrder="16">
+<navLabel><text>Soneto 11 – O cauto causo da boa noite</text></navLabel>
+<content src="Text/chap11.htm"/>
+</navPoint>
+<navPoint id="17" playOrder="17">
+<navLabel><text>Soneto 12 – O cauto causo do pesadelo</text></navLabel>
+<content src="Text/chap12.htm"/>
+</navPoint>
+<navPoint id="18" playOrder="18">
+<navLabel><text>Soneto 13 – O cauto causo do vulcanico panico</text></navLabel>
+<content src="Text/chap13.htm"/>
+</navPoint>
+<navPoint id="19" playOrder="19">
+<navLabel><text>Soneto 14 – O cauto causo do casarão azarão</text></navLabel>
+<content src="Text/chap14.htm"/>
+</navPoint>
+<navPoint id="20" playOrder="20">
+<navLabel><text>Soneto 15 – O cauto causo da solução intestinal</text></navLabel>
+<content src="Text/chap15.htm"/>
+</navPoint>
+<navPoint id="21" playOrder="21">
+<navLabel><text>Soneto 16 – O cauto causo do funeral</text></navLabel>
+<content src="Text/chap16.htm"/>
+</navPoint>
+<navPoint id="22" playOrder="22">
+<navLabel><text>Soneto 17 – O cauto causo do leite derramado</text></navLabel>
+<content src="Text/chap17.htm"/>
+</navPoint>
+<navPoint id="23" playOrder="23">
+<navLabel><text>Soneto 18 – O cauto causo da comida</text></navLabel>
+<content src="Text/chap18.htm"/>
+</navPoint>
+<navPoint id="24" playOrder="24">
+<navLabel><text>Soneto 19 – O cauto causo do pappo mellifluo</text></navLabel>
+<content src="Text/chap19.htm"/>
+</navPoint>
+<navPoint id="25" playOrder="25">
+<navLabel><text>Soneto 20 – O cauto causo da rara metade</text></navLabel>
+<content src="Text/chap20.htm"/>
+</navPoint>
+<navPoint id="26" playOrder="26">
+<navLabel><text>Soneto 21 – O cauto causo do almoço domingueiro</text></navLabel>
+<content src="Text/chap21.htm"/>
+</navPoint>
+<navPoint id="27" playOrder="27">
+<navLabel><text>Soneto 22 – O cauto causo da carona</text></navLabel>
+<content src="Text/chap22.htm"/>
+</navPoint>
+<navPoint id="28" playOrder="28">
+<navLabel><text>Soneto 23 – O cauto causo do carro inseguro</text></navLabel>
+<content src="Text/chap23.htm"/>
+</navPoint>
+<navPoint id="29" playOrder="29">
+<navLabel><text>Soneto 24 – O cauto causo do descaso</text></navLabel>
+<content src="Text/chap24.htm"/>
+</navPoint>
+<navPoint id="30" playOrder="30">
+<navLabel><text>Soneto 25 – O cauto causo do carro futuro</text></navLabel>
+<content src="Text/chap25.htm"/>
+</navPoint>
+<navPoint id="31" playOrder="31">
+<navLabel><text>Soneto 26 – O cauto causo do mal menor</text></navLabel>
+<content src="Text/chap26.htm"/>
+</navPoint>
+<navPoint id="32" playOrder="32">
+<navLabel><text>Sonetos 27 a 28 – O cauto causo da matta compacta</text></navLabel>
+<content src="Text/chap27.htm"/>
+</navPoint>
+<navPoint id="33" playOrder="33">
+<navLabel><text>Sonetos 29 a 30 – O cauto causo do jogo aberto</text></navLabel>
+<content src="Text/chap29.htm"/>
+</navPoint>
+<navPoint id="34" playOrder="34">
+<navLabel><text>Sonetos 31 a 32 –	O cauto causo do jogo ganho</text></navLabel>
+<content src="Text/chap31.htm"/>
+</navPoint>
+<navPoint id="35" playOrder="35">
+<navLabel><text>Sonetos 33 a 34 – O cauto causo do jogo do jugo</text></navLabel>
+<content src="Text/chap33.htm"/>
+</navPoint>
+<navPoint id="36" playOrder="36">
+<navLabel><text>Sonetos 35 a 36 – O cauto causo do saldo positivo</text></navLabel>
+<content src="Text/chap35.htm"/>
+</navPoint>
+<navPoint id="37" playOrder="37">
+<navLabel><text>Sonetos 37 a 46 – O cauto causo da ancilla que se perfila</text></navLabel>
+<content src="Text/chap37.htm"/>
+</navPoint>
+<navPoint id="38" playOrder="38">
+<navLabel><text>Sonetos 47 a 54 – O cauto causo da cilada annunciada</text></navLabel>
+<content src="Text/chap47.htm"/>
+</navPoint>
+<navPoint id="39" playOrder="39">
+<navLabel><text>Sonetos 55 a 56 – O cauto causo do rasteiro companheiro</text></navLabel>
+<content src="Text/chap55.htm"/>
+</navPoint>
+<navPoint id="40" playOrder="40">
+<navLabel><text>Sonetos 57 a 66 – O cauto causo do sobrado assombrado</text></navLabel>
+<content src="Text/chap57.htm"/>
+</navPoint>
+<navPoint id="41" playOrder="41">
+<navLabel><text>Sonetos 67 a 76 – O cauto causo da campanha ganha</text></navLabel>
+<content src="Text/chap67.htm"/>
+</navPoint>
+<navPoint id="42" playOrder="42">
+<navLabel><text>Sonetos 77 a 86 – O cauto causo da causa perdida</text></navLabel>
+<content src="Text/chap77.htm"/>
+</navPoint>
+<navPoint id="43" playOrder="43">
+<navLabel><text>Sonetos 87 a 96 – O cauto causo da casa cahida</text></navLabel>
+<content src="Text/chap87.htm"/>
+</navPoint>
+<navPoint id="44" playOrder="44">
+<navLabel><text>Sonetos 97 a 104 – O cauto causo da casa fallida</text></navLabel>
+<content src="Text/chap97.htm"/>
+</navPoint>
+<navPoint id="45" playOrder="45">
+<navLabel><text>Sonetos 105 a 110 – O cauto causo do caso conjugado</text></navLabel>
+<content src="Text/chap105.htm"/>
+</navPoint>
+<navPoint id="46" playOrder="46">
+<navLabel><text>Sonetos 111 a 112 – O cauto causo do modismo no abysmo</text></navLabel>
+<content src="Text/chap111.htm"/>
+</navPoint>
+<navPoint id="47" playOrder="47">
+<navLabel><text>Sonetos 113 a 114 – O cauto causo dos dotes naturaes</text></navLabel>
+<content src="Text/chap113.htm"/>
+</navPoint>
+<navPoint id="48" playOrder="48">
+<navLabel><text>Sonetos 115 a 118 – O cauto causo do golpe sem sorte</text></navLabel>
+<content src="Text/chap115.htm"/>
+</navPoint>
+<navPoint id="49" playOrder="49">
+<navLabel><text>Sonetos 119 a 122 – O cauto causo da cachorrada</text></navLabel>
+<content src="Text/chap119.htm"/>
+</navPoint>
+<navPoint id="50" playOrder="50">
+<navLabel><text>Sonetos 123 a 126 – O cauto causo do preço vil</text></navLabel>
+<content src="Text/chap123.htm"/>
+</navPoint>
+<navPoint id="51" playOrder="51">
+<navLabel><text>Sonetos 127 a 130 – O cauto causo da cara cara</text></navLabel>
+<content src="Text/chap127.htm"/>
+</navPoint>
+<navPoint id="52" playOrder="52">
+<navLabel><text>Sonetos 131 a 136 – O cauto causo da patota pateta</text></navLabel>
+<content src="Text/chap131.htm"/>
+</navPoint>
+<navPoint id="53" playOrder="53">
+<navLabel><text>Sonetos 137 a 142 – O cauto causo do sortilegio ao sacrilegio</text></navLabel>
+<content src="Text/chap137.htm"/>
+</navPoint>
+<navPoint id="54" playOrder="54">
+<navLabel><text>Sonetos 143 a 146 – O cauto causo da zica na dica</text></navLabel>
+<content src="Text/chap143.htm"/>
+</navPoint>
+<navPoint id="55" playOrder="55">
+<navLabel><text>Sonetos 147 a 156 – O cauto causo da uruca na cuca</text></navLabel>
+<content src="Text/chap147.htm"/>
+</navPoint>
+<navPoint id="56" playOrder="56">
+<navLabel><text>Sonetos 157 a 166 – O cauto causo da pausa calculada</text></navLabel>
+<content src="Text/chap157.htm"/>
+</navPoint>
+<navPoint id="57" playOrder="57">
+<navLabel><text>Sonetos 167 a 172 – O cauto causo da ziquizira que delira</text></navLabel>
+<content src="Text/chap167.htm"/>
+</navPoint>
+<navPoint id="58" playOrder="58">
+<navLabel><text>Sonetos 173 a 176 – O cauto causo dos echos kosmopolitas</text></navLabel>
+<content src="Text/chap173.htm"/>
+</navPoint>
+<navPoint id="59" playOrder="59">
+<navLabel><text>Sonetos 177 a 186 – O cauto causo da urucubaca que attacca</text></navLabel>
+<content src="Text/chap177.htm"/>
+</navPoint>
+<navPoint id="60" playOrder="60">
+<navLabel><text>Sonetos 187 a 196 – O cauto causo da ziquizira que se revira</text></navLabel>
+<content src="Text/chap187.htm"/>
+</navPoint>
+<navPoint id="61" playOrder="61">
+<navLabel><text>Sonetos 197 a 200 – O cauto causo da ziquizira que expira</text></navLabel>
+<content src="Text/chap197.htm"/>
+</navPoint>
+<navPoint id="62" playOrder="62">
+<navLabel><text>Auctor</text></navLabel>
+<content src="Text/auctor.htm"/>
+</navPoint>
+<navPoint id="63" playOrder="63">
+<navLabel><text>Obra</text></navLabel>
+<content src="Text/Obra.htm"/>
+</navPoint>
+<navPoint id="64" playOrder="64">
+<navLabel><text>Posfácio</text></navLabel>
+<content src="Text/posfacio.htm"/>
+</navPoint>
+<navPoint id="65" playOrder="65">
+<navLabel><text>Sobre o posfaciador</text></navLabel>
+<content src="Text/sobreoposfaciador.htm"/>
+</navPoint>
+<navPoint id="66" playOrder="66">
+<navLabel><text>Cronologia</text></navLabel>
+<content src="Text/cronologia.htm"/>
+</navPoint>
+<navPoint id="67" playOrder="67">
+<navLabel><text>Bibliografia</text></navLabel>
+<content src="Text/Bibliografia.htm"/>
+</navPoint>
+</navMap>
+</ncx>
